@@ -8,7 +8,7 @@ This script is used to calculate the **pressure losses** in the **ethanol** and 
 
 This version includes significant enhancements and added functionality:
 
-### ➔ New Features
+## New Features
 
 - **Dual flow system modeling**: Separate calculations for ethanol (liquid) and GOX (gas)
 - **Dynamic gas density**: GOX density calculated from temperature and pressure via ideal gas law
@@ -75,4 +75,3 @@ The script prints:
 
 ---
 
-Let me know if you’d like this saved to a file or embedded in the repo structure.
