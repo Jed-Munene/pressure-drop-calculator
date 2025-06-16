@@ -17,7 +17,7 @@ This version includes significant enhancements and added functionality:
 - **Fitting losses**: Accounts for pressure losses from elbows and T-sections using loss coefficients (K-values)
 - **Velocity calculations**: Computes flow velocity in the pipe for each fluid
 - **Detailed breakdown**: Pipe, valve, and fitting losses printed separately in Pa, kPa, and bar
-- **Reusable modular functions**: All physics equations separated into functions for extensibility
+
 
 ---
 
