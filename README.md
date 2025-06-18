@@ -23,7 +23,7 @@ This script is used to calculate the **pressure losses** in the **ethanol** and 
 3. Run the script using Python:
 
 ```bash
-python pressure_loss_calculator.py
+python piping-losses v2.py
 ```
 
 ---
