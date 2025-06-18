@@ -2,11 +2,6 @@
 
 This script is used to calculate the **pressure losses** in the **ethanol** and **gaseous oxygen (GOX)** feed lines of a propulsion system. It models pressure drops from pipe friction, fittings (elbows and T-sections), and valves (solenoid, check, and ball valves) using physical and empirical equations.
 
----
-
-## What’s Included
-
-This version includes significant enhancements and added functionality:
 
 ## New Features
 
